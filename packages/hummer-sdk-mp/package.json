@@ -1,0 +1,11 @@
+{
+  "name": "@youzan/hummer-sdk-mp",
+  "version": "1.0.0",
+  "description": "Hummer 小程序 SDK",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
