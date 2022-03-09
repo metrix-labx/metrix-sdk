@@ -1,7 +1,7 @@
 {
-  "name": "@youzan/hummer-sdk-web",
+  "name": "@aegis/aegis-sdk-web",
   "version": "1.0.0",
-  "description": "Hummer Web SDK",
+  "description": "Aegis Web SDK",
   "scripts": {
   },
   "keywords": [],
