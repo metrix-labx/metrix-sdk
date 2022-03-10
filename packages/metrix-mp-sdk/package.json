@@ -1,5 +1,5 @@
 {
-  "name": "@metrix/metrix-sdk-mp",
+  "name": "@metrix/metrix-mp-sdk",
   "version": "1.0.0",
   "description": "metrix 小程序 SDK",
   "main": "index.js",
@@ -7,6 +7,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  }
+  "dependencies": {}
 }

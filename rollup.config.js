@@ -8,9 +8,9 @@ import { terser } from 'rollup-plugin-terser';
  */
 const config = [
   {
-    input: 'packages/metrix-sdk-mp/src/index.js',
+    input: 'packages/metrix-mp-sdk/src/index.js',
     output: {
-      file: 'packages/metrix-sdk-mp/dist/index.js',
+      file: 'packages/metrix-mp-sdk/dist/index.js',
       format: 'cjs',
       sourcemap: true,
       compact: false,
@@ -19,9 +19,9 @@ const config = [
   },
 
   {
-    input: 'packages/metrix-sdk-mp/src/index.js',
+    input: 'packages/metrix-mp-sdk/src/index.js',
     output: {
-      file: 'packages/metrix-sdk-mp/dist/index.min.js',
+      file: 'packages/metrix-mp-sdk/dist/index.min.js',
       format: 'cjs',
       sourcemap: true,
       compact: true,

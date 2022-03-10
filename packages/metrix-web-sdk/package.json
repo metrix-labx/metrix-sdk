@@ -1,9 +1,8 @@
 {
-  "name": "@metrix/metrix-sdk-web",
+  "name": "@metrix/metrix-web-sdk",
   "version": "1.0.0",
   "description": "metrix Web SDK",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
