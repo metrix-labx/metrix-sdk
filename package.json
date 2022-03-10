@@ -1,7 +1,7 @@
 {
-  "name": "aegis-sdk",
+  "name": "metrix-sdk",
   "version": "1.0.0",
-  "description": "Aegis SDK monorepo 仓库",
+  "description": "Metrix SDK monorepo 仓库",
   "scripts": {
     "build": "rollup --config rollup.config.js",
     "build:watch": "rollup --config rollup.config.js --watch"

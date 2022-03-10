@@ -1,7 +1,7 @@
 {
-  "name": "@aegis/aegis-sdk-mp",
+  "name": "@metrix/metrix-sdk-mp",
   "version": "1.0.0",
-  "description": "Aegis 小程序 SDK",
+  "description": "metrix 小程序 SDK",
   "main": "index.js",
   "scripts": {},
   "keywords": [],

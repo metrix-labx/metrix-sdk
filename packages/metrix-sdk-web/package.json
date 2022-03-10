@@ -1,7 +1,7 @@
 {
-  "name": "@aegis/aegis-sdk-web",
+  "name": "@metrix/metrix-sdk-web",
   "version": "1.0.0",
-  "description": "Aegis Web SDK",
+  "description": "metrix Web SDK",
   "scripts": {
   },
   "keywords": [],
