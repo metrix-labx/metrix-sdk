@@ -1,6 +1,9 @@
-const { WeMiniprogramPerformance } = require('../../packages/metrix-mp-sdk/dist/index');
-
-new WeMiniprogramPerformance({});
+const {
+  WeMiniprogramPerformance
+} = require('@metrix/metrix-mp-sdk');
+const client = new WeMiniprogramPerformance({
+  appId: 'd83010aa-4d89-16ec-a1da-70b1ba7c0078',
+});
 
 // app.js
 App({

@@ -1,0 +1,16 @@
+{
+  "name": "metrix-mp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metrix/metrix-mp-sdk": "^1.0.0",
+    "@vant/weapp": "^1.10.2"
+  }
+}

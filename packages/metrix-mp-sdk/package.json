@@ -2,7 +2,7 @@
   "name": "@metrix/metrix-mp-sdk",
   "version": "1.0.0",
   "description": "metrix 小程序 SDK",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
